@@ -1,14 +1,14 @@
-Code Book
+# Code Book
 
 This code book summarizes the resulting data fields in tidydata.txt.
 
-Identifiers
+## Identifiers
 
 subject - The ID of the test subject
 
 activity - The type of activity performed when the corresponding measurements were taken
 
-Fields Description
+## Fields Description
 
 The original files have this description
 
@@ -163,7 +163,7 @@ fBodyBodyGyroMagStd
 
 fBodyBodyGyroJerkMagStd
 
-Activity Labels
+## Activity Labels
 
 WALKING (value 1): subject was walking during the test
 
